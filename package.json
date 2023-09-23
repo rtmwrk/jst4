@@ -1,0 +1,26 @@
+{
+  "name": "js-test-hw4-puppeteer",
+  "version": "0.0.1",
+  "description": "this is homework 4 for javascripts testing course",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "javascripts",
+    "test",
+    "puppetteer",
+    "homework"
+  ],
+  "author": "rtm_wrk, rtm_wrk@rambler.ru",
+  "license": "ISC",
+  "homepage": "https://github.com/rtmwrk/jst4#readme",
+  "bugs": {
+    "url": "https://github.com/rtmwrk/jst4/issues"
+  },
+  "dependencies": {
+    "jest": "^27.5.1",
+    "jest-puppeteer": "^6.2.0",
+    "puppeteer": "^21.3.3"
+  }
+}
